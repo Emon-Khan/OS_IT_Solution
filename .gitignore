@@ -3,3 +3,5 @@
 /workspace.xml
 .OS-IT-SOLUTION
 .idea
+*.pyc
+__pycache__
